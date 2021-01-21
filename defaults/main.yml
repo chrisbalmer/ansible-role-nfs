@@ -3,7 +3,6 @@ nfs_exports: []
 
 nfs_rpc_services:
   - rpc-statd
-  - rpc-statd-notify
   - rpcbind
 nfs_rpc_services_state: started
 nfs_rpc_services_enabled: true
